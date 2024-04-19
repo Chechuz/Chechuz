@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Chechuz/Chechuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h1 align="center">¡Hola! soy Cecilia 👋</h1>
+</div>
+<img src="https://imgur.com/FapDVAb.png">
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabajando en mi Proyecto Final de Curso
+- 🌱 Aprendiendo GitHub
+- 👯 Colaborando en comunidades de Discord
+- 🤔 Android Stuadio nativo con java
+- 💬 Preguntame lo que quieras
+
+
