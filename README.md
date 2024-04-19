@@ -4,7 +4,7 @@
 </div>
 <img src="https://imgur.com/FapDVAb.png">
 <div>
-  <img src ="https://img.shields.io/badge/http-%2373DC8C?style=flat&logoColor=%2373DC8C">
+  <img src="https://img.shields.io/badge/HTML_5-%23E34F26?style=flat&logo=HTML5&logoColor=%23ffff">
   <img src="https://img.shields.io/badge/css_3-%231572B6?style=flat&logo=css3&logoColor=%23ffff">
   <img src="https://img.shields.io/badge/java-%23FF7800?style=flat&logoColor=%2373DC8C">
   <img src="https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=SQLite&logoColor=%2373DC8C">
