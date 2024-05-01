@@ -21,7 +21,7 @@
 - 🔭 Trabajando en mi Proyecto Final de Curso
 - 🌱 Aprendiendo GitHub
 - 👯 Colaborando en comunidades de Discord
-- 🤔 Android Studio nativo con java
+- 👩🏻‍💻 Android Studio nativo con java
 - 💬 Preguntame lo que quieras
 
 
