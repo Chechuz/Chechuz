@@ -18,10 +18,10 @@
 
 ## Sobre mi
 
-- 🔭 Trabajando en mi Proyecto Final de Curso
-- 🌱 Aprendiendo GitHub
+- 🔭 Trabajando en mis Practicas Profesionales
+- 🌱 Aprendiendo SpringBoot y Angular.
 - 👯 Colaborando en comunidades de Discord
 - 👩🏻‍💻 Android Studio nativo con java
-- 💬 Preguntame lo que quieras
+- ☕ ¿Tomamos un café? :stuck_out_tongue_winking_eye:
 
 
