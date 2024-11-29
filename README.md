@@ -18,7 +18,7 @@
 
 ## Sobre mi
 
-- 🔭 Trabajando en mis Practicas Profesionales
+- 🔭 Estudiando GenAi y python.
 - 🌱 Aprendiendo SpringBoot y Angular.
 - 👯 Colaborando en comunidades de Discord
 - 👩🏻‍💻 Android Studio nativo con java
